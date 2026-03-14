@@ -17,7 +17,7 @@
 
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,linux,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=python,linux,git,github,vscode,C++)
 
 ---
 
